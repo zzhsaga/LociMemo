@@ -3,3 +3,7 @@ langchain_groq
 streamlit
 langchain-openai
 python-dotenv
+pymongo
+langchain_mongodb
+langchain_community
+langchain_core
